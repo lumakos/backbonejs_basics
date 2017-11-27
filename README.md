@@ -133,3 +133,9 @@ $(function(){
 
 });
 ```
+
+<b>Design Patterns</b>
+```
+https://cdnjs.com/libraries/backbone.js/tutorials/organizing-backbone-using-modules
+http://blog.cloudoki.com/backbone-app-end-to-end-basic-design-pattern/
+```
