@@ -2,6 +2,7 @@
 
 ```
 http://adrianmejia.com/blog/2012/09/11/backbone-dot-js-for-absolute-beginners-getting-started/
+http://rahulrajatsingh.com/2014/07/backbone-tutorial-part-3-more-about-backbone-models/
 ```
 
 <b>UnderscoreJS</b> is a JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects.
