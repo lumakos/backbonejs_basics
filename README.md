@@ -14,7 +14,9 @@ https://tutorialzine.com/2013/04/services-chooser-backbone-js
 https://addyosmani.com/backbone-fundamentals/#when-do-i-need-a-javascript-mvc-framework
 ```
 <b>RequireJS</b>
-```http://requirejs.org/docs/api.html````
+```
+http://requirejs.org/docs/api.html
+```
 ```
 $(function(){
 
